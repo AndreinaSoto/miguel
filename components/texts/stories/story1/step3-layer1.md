@@ -1,5 +1,5 @@
 ---
-title: What do historical fragments tell us about this episode?
+title: A story in fragments
 ---
 
 First considered a promising spot for extracting rich metals, Buría would soon become a critical zone of resistance and contention, where indigenous and Black people would defy European orderings and set up their own normative order — at least for a few generations. 
