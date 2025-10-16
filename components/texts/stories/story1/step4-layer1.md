@@ -8,11 +8,11 @@ A key theme in these sources is the strategies that Miguel employed to orchestra
 
 More importantly, these sources provide a glimpse of the motivations and strategies Miguel and his people employed to achieve freedom and position themselves as _conquistadores_ and creators of a new kingdom, even if to highlight the dangers of their actions.
 
-Soon after the attack on Buría, Miguel and his people established a _palenque_ named Curduvaré in their conquered territories, near the shores of the San Pedro River. The group, which comprised Black and Jirajara people, settled the _palenque_, from which they planned to control access to the mine of Buría. According to Friar Pedro Simón, Miguel and his people fortified the _palenque_ with strong palisades and trenches, with one entrance near the river of San Pedro and the other facing the mounts to make difficult its access, “strong and comfortable for human habitation, fenced, with solid houses since [Miguel] intended to remain in this place from which, according to the Friar, Miguel intended to become the lord of all the land.”[[1]](#_ftn1) 
+Soon after the attack on Buría, Miguel and his people established a _palenque_ named Curduvaré in their conquered territories, near the shores of the San Pedro River. The group, which comprised Black and Jirajara people, settled the _palenque_, from which they planned to control access to the mine of Buría. According to Friar Pedro Simón, Miguel and his people fortified the _palenque_ with strong palisades and trenches, with one entrance near the river of San Pedro and the other facing the mounts to make difficult its access, “strong and comfortable for human habitation, fenced, with solid houses since [Miguel] intended to remain in this place from which, according to the Friar, Miguel intended to become the lord of all the land.”[[3]](#_ftn3) 
 
 This new settlement would also follow particular social orderings and hierarchies that defied Spanish control. Miguel was crowned King by his followers, named his partner Guiomar –described as either his _manceba_ or his friend— as queen, and his _hijuelo_ as prince.[[1]](#_ftn1) 
 
-According to the friars accounts, the newly appointed king also established other titles among his subjects, such as “creating all the ministers and officials that he had in memory that there were of the households of the Kings.” The chroniclers also highlighted how Miguel used his “spiritual and temporal power” to name a bishop among one of his partners that he considered most qualified for the tasks, and ordered the construction of a church, where he had “those black as filthy sheep gathered to preach to them.”[[2]](#_ftn2) 
+According to the friars accounts, the newly appointed king also established other titles among his subjects, such as “creating all the ministers and officials that he had in memory that there were of the households of the Kings.” The chroniclers also highlighted how Miguel used his “spiritual and temporal power” to name a bishop among one of his partners that he considered most qualified for the tasks, and ordered the construction of a church, where he had “those black as filthy sheep gathered to preach to them.”[[4]](#_ftn4) 
 
 Despite the attempts to portray Miguel’s kingdom with a negative lens, these accounts also allude to an _palenque_ that, out of the bounds of enslavers and local officials, sought to follow European schemes of social and spatial organization and cement the freedom and power of its own settlers.
 
@@ -24,8 +24,8 @@ Despite the attempts to portray Miguel’s kingdom with a negative lens, these a
 
 [[2]](#_ftnref2) Simón,  _Noticias Historiales,_ 235.
 
-[[1]](#_ftnref1) “de donde (no pudiendo seguir por entonces) salia de noche y hallando ocasion de hablar con los demás esclavos e indios de las minas, les procurada persuadir hiciesen lo mismo que él, pues de quella suerte hallarian su libertad, que tan tiránicamente (decía él) se la tenían usurpada los españoles.” Simón, 235.  
+[[3]](#_ftnref1) “de donde (no pudiendo seguir por entonces) salia de noche y hallando ocasion de hablar con los demás esclavos e indios de las minas, les procurada persuadir hiciesen lo mismo que él, pues de quella suerte hallarian su libertad, que tan tiránicamente (decía él) se la tenían usurpada los españoles.” Simón, 235.  
 
-[[2]](#_ftnref2) Aguado, for example, said there were at least 180 people involved in this insurrection. _Historia de Venezuela_, 380.
+[[4]](#_ftnref2) Aguado, for example, said there were at least 180 people involved in this insurrection. _Historia de Venezuela_, 380.
 
 
