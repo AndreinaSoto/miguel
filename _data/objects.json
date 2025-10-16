@@ -4,12 +4,25 @@
     "title": "AMERICA, QVAE EST GEOGRAPHIAE BLAVIANAE PARS QVINTA, LIBER VNVS, VOLVMEN VNDECIMVM. [Printer's mark 'Indefessus Agendo']. AMSTELAEDAMI, Labore & Sumptibus IOANNIS BLAEV, MDCLXII",
     "description": "Historical map of Venezuela",
     "creator": "Blaeu, Joan, 1596-1673",
-    "period": 1662,
+    "period": 1662.0,
     "medium": "",
     "dimensions": "",
     "location": "",
     "credit": "David Rumsey Historical Map Collection ",
     "thumbnail": "",
     "iiif_manifest": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~353905~90120929/manifest"
+  },
+  {
+    "object_id": "welser_b",
+    "title": "Bartholomäus Welser",
+    "description": "",
+    "creator": "",
+    "period": "",
+    "medium": "",
+    "dimensions": "",
+    "location": "",
+    "credit": "Herzog Anton Ulrich-Museum Museumstr. 1 38100 Braunschweig 0531 / 12 25 24 09. Collection: Kupferstichkabinett",
+    "thumbnail": "Herzog Anton Ulrich-Museum",
+    "iiif_manifest": "https://nds.museum-digital.de/object/65973"
   }
 ]
