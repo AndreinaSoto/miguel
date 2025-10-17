@@ -13,16 +13,16 @@
     "iiif_manifest": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~353905~90120929/manifest"
   },
   {
-    "object_id": "welser_b",
-    "title": "Bartholomäus Welser",
-    "description": "",
-    "creator": "",
+    "object_id": "carta-1601",
+    "title": "“Carta del Gobernador Alonso Arias de Vaca sobre los planes de allanar y pacificar la provincia de Nirgua con la ayuda de mulatos y morenos libres \"",
+    "description": " ",
+    "creator": "1601-05-05",
     "period": "",
     "medium": "",
-    "dimensions": "",
-    "location": "",
-    "credit": "Herzog Anton Ulrich-Museum Museumstr. 1 38100 Braunschweig 0531 / 12 25 24 09. Collection: Kupferstichkabinett",
-    "thumbnail": "Herzog Anton Ulrich-Museum",
-    "iiif_manifest": "https://nds.museum-digital.de/object/65973"
+    "dimensions": "Archivo General de Indias",
+    "location": " Santo Domingo 193 R.12 N.35",
+    "credit": "",
+    "thumbnail": "",
+    "iiif_manifest": ""
   }
 ]
