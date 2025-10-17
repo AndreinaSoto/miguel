@@ -4,4 +4,10 @@ title: The seventeenth century
 
 Over the following decades, the region continued to oscillate between moments of calm and renewed conflict, leaving colonial authorities in a constant state of alert, often portraying freed and maroon communities as the main source of trouble. 
 
-The numerous failed attempts to expand Spanish control over this region necessitated the implementation of different strategies. The foundation of Nirgua in the valleys of Yaracuy in 1601 – and once again, in 1628– near areas previously conquered by Miguel, would be a turning point, with colonial authorities outsourcing the effort to people of African descent, naming them "conquistadores," and granting them privileges that partially formalized their autonomy. This represented a new strategy led by men of African descent: rather than insurrections, this group of freed people, descendants of Black enslaved and indigenous people, would adopt and adapt the imperial ideals of ordering, conquering, and pacification to put forward a plan to take over a contested space.
+The numerous failed attempts to expand Spanish control over this region necessitated the implementation of different strategies. 
+
+An key moment that shows the aftermath of Miguel's kingdom was the foundation of Nirgua in the valleys of Yaracuy in 1601 – and once again, in 1628– near areas previously conquered by Miguel, would be a turning point, with colonial authorities outsourcing the effort to people of African descent, naming them "conquistadores," and granting them privileges that partially formalized their autonomy. This represented a new strategy led by men of African descent: rather than insurrections, this group of freed people, descendants of Black enslaved and indigenous people, would adopt and adapt the imperial ideals of ordering, conquering, and pacification to put forward a plan to take over a contested space.
+
+![Carta del Gobernador Alonso Arias de Vaca sobre las Capitulaciones de Nirgua, 1601](/components/images/additional/carta-1601.JPG)
+
+
