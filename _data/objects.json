@@ -4,25 +4,12 @@
     "title": "AMERICA, QVAE EST GEOGRAPHIAE BLAVIANAE PARS QVINTA, LIBER VNVS, VOLVMEN VNDECIMVM. [Printer's mark 'Indefessus Agendo']. AMSTELAEDAMI, Labore & Sumptibus IOANNIS BLAEV, MDCLXII",
     "description": "Historical map of Venezuela",
     "creator": "Blaeu, Joan, 1596-1673",
-    "period": 1662.0,
+    "period": 1662,
     "medium": "",
     "dimensions": "",
     "location": "",
     "credit": "David Rumsey Historical Map Collection ",
     "thumbnail": "",
     "iiif_manifest": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~353905~90120929/manifest"
-  },
-  {
-    "object_id": "carta-1601",
-    "title": "Carta del Gobernador Alonso Arias de Vaca sobre los planes de allanar y pacificar la provincia de Nirgua con la ayuda de mulatos y morenos libres",
-    "description": "",
-    "creator": "1601-05-05",
-    "period": "",
-    "medium": "",
-    "dimensions": "Archivo General de Indias, Santo Domingo 193 R.12 N.35",
-    "location": "",
-    "credit": "",
-    "thumbnail": "",
-    "iiif_manifest": ""
   }
 ]
