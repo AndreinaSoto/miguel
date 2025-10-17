@@ -1,6 +1,6 @@
 ---
 story_number: 1
-title: "Telar example story"
+title: "The Kingdom of Miguel"
 layout: story
 data_file: story-1
 ---
